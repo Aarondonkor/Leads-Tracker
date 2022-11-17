@@ -1,0 +1,49 @@
+body{
+    min-width: 400px;
+}
+#textfield{
+    width : 100%;
+    padding :7px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+ #input-btn{
+    background-color: rgb(24, 121, 24);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    width:15%;
+    padding: 7px;
+    font-weight: bold;
+ }
+ #delete-btn{
+   color:  rgb(24, 121, 24);
+   font-weight: bold;
+   background-color: white;
+   border-radius: 4px;
+   padding: 4px;
+   border-color:  rgb(24, 121, 24);
+   border-style: hidden;
+   margin: 5px;
+ }
+ #tab-btn{
+   background-color: rgb(24, 121, 24);
+   color: white;
+   border: none;
+   border-radius: 4px;
+   width:100px;
+   padding: 7px;
+   font-weight: bold;
+ }
+ ul{
+    color: rgb(117, 117, 117);
+    list-style: none;
+    padding-top: 10px;
+ }
+ li{
+    margin-top: 5px;
+ }
+ a{
+    color: rgb(117, 117, 117);
+    font-style: italic;
+ }
